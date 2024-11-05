@@ -100,3 +100,12 @@ ul{
 .text-black{
     color: #1F2937;
 }
+
+.img{
+    width: auto;
+    max-height: 250px;
+}
+
+.max-height-00{
+    max-height: 500px;
+}
