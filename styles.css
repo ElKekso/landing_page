@@ -140,6 +140,10 @@ h1{
     max-height: 250px;
 }
 
+.max-width-800{
+    max-width: 790px;
+}
+
 .max-width-550{
     max-width: 550px;
 }
@@ -162,6 +166,11 @@ h1{
 
 .rounded-corners{
     border-radius: 8px;
+}
+
+
+.padding-right{
+    padding-right: 60px;
 }
 
 .remove-margin{
@@ -189,10 +198,16 @@ h1{
 }
 
 .quote-padding{
-    padding: 130px 320px 80px 320px;
+    padding: 130px 355px 80px 355px;
 }
 
+.action_call-padding{
+    padding: 30px 0px 30px 0px;
+}
 
+.window-margin{
+    margin: 100px 300px 100px 0px;
+}
 
 a{
     text-decoration: none;
