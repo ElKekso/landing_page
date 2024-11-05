@@ -2,6 +2,12 @@ body{
     font-family: 'Roboto';
 }
 
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
 .flex{
     display: flex;
 }
@@ -62,6 +68,10 @@ body{
 
 .text-grey{
     color: #E5E7EB;
+}
+
+.text-dark_grey{
+    color: grey;
 }
 
 .text-white{
