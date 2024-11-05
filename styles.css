@@ -144,6 +144,10 @@ h1{
     min-width: 150px;
 }
 
+.min-width-400{
+    min-width: 400px;
+}
+
 .border-remove{
     border: none;
 }
