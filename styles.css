@@ -1,5 +1,5 @@
-.body{
-    font-family: "Roboto";
+body{
+    font-family: 'Roboto';
 }
 
 .flex{
@@ -19,11 +19,23 @@
 }
 
 .bold{
-    font-weight: bold;   
+    font-weight: 900;   
 }
 
-.font-size-10{
-    font-size: 10px;
+.font-size-48{
+    font-size: 48px;
+}
+
+.font-size-36{
+    font-size: 36px;
+}
+
+.font-size-24{
+    font-size: 24px;
+}
+
+.font-size-18{
+    font-size: 18px;
 }
 
 .italic{
@@ -34,4 +46,28 @@
     box-sizing: border-box;
     border: #3882F6;
     padding: 20px;
+}
+
+.background-dark{
+    background-color: #1F2937;
+}
+
+.background-blue{
+    background-color: #3882F6;
+}
+
+.background-grey{
+    background-color: #E5E7EB;
+}
+
+.text-grey{
+    color: #E5E7EB;
+}
+
+.text-white{
+    color: #F9FAF8;
+}
+
+.text-black{
+    color: #1F2937;
 }
