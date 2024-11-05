@@ -1,6 +1,9 @@
 body{
     font-family: 'Roboto';
     min-height: 100vh;
+
+    justify-content: center;
+    margin: 0;
 }
 
 ul{
@@ -27,6 +30,14 @@ ul{
 
 .flex-auto{
     flex: auto;
+}
+
+.flex-grow-1{
+    flex-grow: 1;
+}
+
+.margin-top-auto{
+    marign-top: auto;
 }
 
 .bold{
