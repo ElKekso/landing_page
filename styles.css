@@ -48,6 +48,11 @@ h1{
     align-self: flex-end;
 }
 
+.align-self-center{
+    align-self: center;
+}
+
+
 .text-center{
     text-align: center;
 }
@@ -160,6 +165,8 @@ h1{
     min-width: 400px;
 }
 
+
+
 .border-remove{
     border: none;
 }
@@ -167,6 +174,15 @@ h1{
 .rounded-corners{
     border-radius: 8px;
 }
+
+.border-white{
+    border-color: #E5E7EB;
+}
+
+.border-solid{
+    border-style: solid;
+}
+
 
 
 .padding-right{
@@ -182,7 +198,7 @@ h1{
 }
 
 .button-padding{
-    padding: 10px 25px 10px 25px;
+    padding: 8px 35px 8px 35px;
 }
 
 .header-hero-padding{
@@ -202,11 +218,15 @@ h1{
 }
 
 .action_call-padding{
-    padding: 30px 0px 30px 0px;
+    padding: 20px 120px 20px 120px;
 }
 
 .window-margin{
-    margin: 100px 300px 100px 0px;
+    margin: 100px 300px 100px 300px;
+}
+
+.footer-padding{
+    padding: 20px 0px 20px 0px;
 }
 
 a{
