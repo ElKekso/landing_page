@@ -1,5 +1,6 @@
 body{
     font-family: 'Roboto';
+    min-height: 100vh;
 }
 
 ul{
@@ -22,6 +23,10 @@ ul{
 
 .gap-20{
     gap: 20px;
+}
+
+.flex-auto{
+    flex: auto;
 }
 
 .bold{
